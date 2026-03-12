@@ -24,7 +24,7 @@ description: >
   experimental spectroscopy using HPGe Clover detectors and Python-based analysis.
 
 # Your website URL
-url: "https://somgithu.github.io"
+url: "https://Nuclearsomdatt.github.io"
 
 # If repository name is not username.github.io keep baseurl
 baseurl: ""
@@ -34,7 +34,7 @@ baseurl: ""
 # -----------------------------
 
 github:
-  username: somgithu
+  username: Nuclearsomdatt
 
 # -----------------------------
 # Social Profile Information
@@ -44,7 +44,7 @@ social:
   name: Somdatt Prajapat
   email: somdpr415@email.com
   links:
-    - https://github.com/somgithu
+    - https://github.com/Nuclearsomdatt
     - https://www.linkedin.com/in/somdatt-prajapat
 
 # -----------------------------
